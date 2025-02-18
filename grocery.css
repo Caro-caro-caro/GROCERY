@@ -1,0 +1,46 @@
+
+
+.vegetables {
+    background-color: purple;
+    width: 300px;
+    border: 10px solid red;  
+    display: inline-block;  
+}
+
+h3 {
+    background-color: chartreuse;    
+}
+
+.fruits {
+    background-color: red;
+    width: 500px;
+    border: 10px solid blue;
+    display: inline-block;
+
+}
+
+.cans {
+    background-color: blue;
+    width: 700px;
+    border: 10px solid yellow;
+    margin-bottom: 20px;
+}
+.bulk {
+    background-color: yellow;
+    width: 900px;
+    border: 10px solid purple;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 4rem;
+
+}
+
+img {
+    height: 100px;
+}
+
+img {
+    padding-left: 50px;
+}
